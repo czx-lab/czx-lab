@@ -1,0 +1,19 @@
+name: Update events
+
+on:
+  watch:
+    types: started
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Social Readme
+        uses: zylele/social-readme@master
+        with:
+          blog_rss_link: https://www.aiweimeng.top/feed/
+          blog_limit: 10
+          douban_name: Blog
+          douban_limit: 10
