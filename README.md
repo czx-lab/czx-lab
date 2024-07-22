@@ -7,6 +7,8 @@ I love open source and all things fun.
 
 I've been reading the book **`《每个人都是一个宇宙》`** over and over again lately.
 
+- 💻 I’m currently developing a wallpaper software **`WallEvo`**, expected to be online by the end of the year!
+
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/czx-lab/skeleton)
 
 - 🌱 I’m currently learning **about C/C++.**
