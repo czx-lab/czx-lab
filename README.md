@@ -5,7 +5,7 @@
 Enthusiastic server-side developers from China.
 I love open source and all things fun.
 
-I've been reading the book **`Everyone is a Universe`** over and over again lately.
+I've been reading the book **`《每个人都是一个宇宙》`** over and over again lately.
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/czx-lab/skeleton)
 
