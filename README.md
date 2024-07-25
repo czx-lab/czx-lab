@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-### Hi there, I'm [Neddie](http://www.aiwiemeng.top)(青丝南开) . 👋
+### Hi there, I'm [青丝南开](http://www.aiwiemeng.top) . 👋
 
 Enthusiastic server-side developers from China.
 I love open source and all things fun.
@@ -16,6 +16,8 @@ I've been reading the book **`《每个人都是一个宇宙》`** over and over
 - ❤️ I like eating 🍉, raising 🐟, journey 🍃, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 
 - 📫 How to reach me **576970513@qq.com**
+
+<img src="./image/bg.png" />
 
 ---
 
