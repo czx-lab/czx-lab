@@ -7,7 +7,7 @@ I love open source and all things fun.
 
 I've been reading the book **`《每个人都是一个宇宙》`** over and over again lately.
 
-- 💻 I’m currently developing a wallpaper software **`WallEvo`**, expected to be online by the end of the year!
+- 💻 I’m currently developing a wallpaper software **[WallEvo](https://github.com/czx-lab/EvoWall)**, expected to be online by the end of the year!
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/czx-lab/skeleton)
 
@@ -16,8 +16,6 @@ I've been reading the book **`《每个人都是一个宇宙》`** over and over
 - ❤️ I like eating 🍉, raising 🐟, journey 🍃, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 
 - 📫 How to reach me **576970513@qq.com**
-
-<img src="./image/bg.png" />
 
 ---
 
