@@ -5,3 +5,6 @@ table {
   cellspacing: 0;
   border-spacing: 0;
 }
+.right {
+  float-right;
+}
