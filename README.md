@@ -22,7 +22,7 @@ I've been reading the book **`《每个人都是一个宇宙》`** over and over
 
 #### Languages
 
-<div class="right">
+<div style="float:right">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=czx-lab&show_icons=true&locale=en" width="450" alt="czx-lab" />  
 </div>
 
