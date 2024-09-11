@@ -19,12 +19,9 @@ I've been reading the book **`《每个人都是一个宇宙》`** over and over
 
 ---
 
-
 #### Languages
 
-<div style="float:right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=czx-lab&show_icons=true&locale=en" width="450" alt="czx-lab" />  
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=czx-lab&show_icons=true&locale=en" width="450" alt="czx-lab" />  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="20"/></code>
